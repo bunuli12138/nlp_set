@@ -11,6 +11,8 @@ X/Y/train/test_Class_Description 或 Class_Description
 - Class： 变量名称， Description：变量作用或来源简介
 - 逐步改变的变量，则后加 _Feature， 表示当前改变的来源特征
 - 以 _ 开头的变量表示不可变
+- 方法内的变量描述为简写首字母
 
 ## others
 ipynb文件载入较慢，可以复制文件链接到 [nbviewer](https://nbviewer.jupyter.org/) 查看
+ipynb文件中所有自定义方法都注释 ‘自定义方法’，网页搜索即可
