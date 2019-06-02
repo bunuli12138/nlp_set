@@ -15,4 +15,4 @@ X/Y/train/test_Class_Description 或 Class_Description
 
 ## others
 ipynb文件载入较慢，可以复制文件链接到 [nbviewer](https://nbviewer.jupyter.org/) 查看
-ipynb文件中所有自定义方法都注释 ‘自定义方法’，网页搜索即可
+ipynb文件中所有自定义方法都注释 ‘自定义方法’，Ctrl+F搜索即可
