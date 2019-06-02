@@ -3,6 +3,7 @@
 ```
 ## 简述
 统计学派语言模型项目
+- 马尔科夫模型，迷惑度为1.023274837149308
 
 ## 命名规则
 X/Y/train/test_Class_Description 或 Class_Description   
