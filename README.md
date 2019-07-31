@@ -1,5 +1,6 @@
+<center><font color=blue>未完成</font></center>
 ```
-!!未完成！！ label: #nlp #文本分析 #语言模型 
+label: #nlp #文本分析 #语言模型 
 ```
 ## 简述
 弹幕文本分析以及语言模型项目
